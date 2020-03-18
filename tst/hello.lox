@@ -1,0 +1,9 @@
+( ) { } , . - + ; / *
+! != = == > >= < <=
+bare_word "literal string" "multi
+line
+string" 1234 56.7 8.789
+and class else false fun for if nil or print return super this true var while
+3.
+\
+"unterminated string
